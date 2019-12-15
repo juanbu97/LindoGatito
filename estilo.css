@@ -1,9 +1,0 @@
-#formulario{
-    display: grid;
-    grid-template-columns: min-content min-content;
-    gap: 0.5em;
-}
-
-img{
-    width: 50%;
-}
